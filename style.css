@@ -9,3 +9,8 @@ body{
     list-style-type: none;
     margin: auto;
 }
+
+div{
+    background-color: blue;
+    height: 66px;
+}
